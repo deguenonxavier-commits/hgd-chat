@@ -1,0 +1,30 @@
+{
+  "name": "HGD Messenger",
+  "short_name": "HGD",
+  "description": "Application de messagerie HGD",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ff6b00",
+  "theme_color": "#ff6b00",
+  "lang": "fr",
+  "categories": ["social", "communication"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjI4IiBmaWxsPSIjZmY2YjAwIi8+PHJlY3QgeD0iMTIiIHk9IjIwIiB3aWR0aD0iMTMyIiBoZWlnaHQ9Ijk2IiByeD0iMTYiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjk1Ii8+PHBvbHlnb24gcG9pbnRzPSIxNSwxMTYgMTUsMTUwIDUwLDExNiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOTUiLz48dGV4dCB4PSI3OCIgeT0iODYiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXdlaWdodD0iOTAwIiBmb250LXNpemU9Ijg0IiBmaWxsPSIjZmY2YjAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj5IPC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjY0IiBmaWxsPSIjZmY2YjAwIi8+PHJlY3QgeD0iMzAiIHk9IjUwIiB3aWR0aD0iMzYwIiBoZWlnaHQ9IjI2MCIgcng9IjM2IiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjxwb2x5Z29uIHBvaW50cz0iMzgsMzEwIDM4LDQwMCAxMzMsMzEwIiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45NSIvPjx0ZXh0IHg9IjIxMCIgeT0iMjE1IiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC13ZWlnaHQ9IjkwMCIgZm9udC1zaXplPSIyMjAiIGZpbGw9IiNmZjZiMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiPkg8L3RleHQ+PC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
